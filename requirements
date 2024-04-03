@@ -1,0 +1,9 @@
+Requirement 1: Regular movies rent, on the first day, for $1.50 and earn 1
+renter point per day rented.
+
+Requirement 2: The second and third days’ rentals of regular movies are
+free, and no points are earned for them.
+
+Requirement 3: All subsequent days rent for $1.50 and earn 1 renter point.
+
+Requirement 4: Children’s movies rent for $1.00 per day and earn 1 point.
